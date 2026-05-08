@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a Front-end developer 👨‍💻 Studying Computer Science since 2025 🚀</div>  
+### <div align="center">I'm Felipe, a Front-end developer 👨‍💻 Studying Computer Science since 2025 🚀</div>  
   
 
 - 🌱 I’m currently learning React and Vite  
